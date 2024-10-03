@@ -1,3 +1,3 @@
-# my-github
-## this is a demo
+### my-github
+### this is a demo
 ### thank you
